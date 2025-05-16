@@ -30,7 +30,7 @@
   
 ---
 ## ▶️ 실행 방법
-📦 [다운로드]([https://github.com/kmh8405/CaptureTranslator/releases/download/v1.0/CaptureTranslatorApp.zip](https://github.com/user-attachments/files/20218098/Release.zip)) (압축 해제 후  파일 실행) 또는
+📦 [다운로드]([https://github.com/user-attachments/files/20218098/Release.zip] (압축 해제 후  파일 실행) 또는
 1. Visual Studio에서 `DataPreprocessingTool.sln` 열기
 2. `F5` 또는 `디버깅 없이 시작(Ctrl+F5)`로 실행
 3. 상단 버튼을 통해 기능 사용
